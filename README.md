@@ -22,7 +22,7 @@ _React.js_ - **React >16.8.0**💎
 
 ## Quick start
 
-1. Clone this repo using `git clone https://github.com/JoseZunigaDyehs/boilerplate-react-hooks.git`
+1. Clone this repo using `git clone https://github.com/caesaragen/React-context-boilerplate.git`
 2. Run `yarn` or `npm install` to install dependencies.<br />
 3. Run `npm start` to see the example app at `http://localhost:3000`.
 
