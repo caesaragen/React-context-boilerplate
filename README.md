@@ -268,3 +268,4 @@ const StoreProvider = ({ children }) => {
 export { StoreContext, StoreProvider };
 
 `````
+# React-context-boilerplate
